@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-covid-info/static/css/main.8fbcdd41.chunk.css",
+    "main.css": "/react-covid-info/static/css/main.25a8afb4.chunk.css",
     "main.js": "/react-covid-info/static/js/main.7e6e7233.chunk.js",
     "main.js.map": "/react-covid-info/static/js/main.7e6e7233.chunk.js.map",
     "runtime-main.js": "/react-covid-info/static/js/runtime-main.08870da0.js",
@@ -10,14 +10,14 @@
     "static/js/3.a692224a.chunk.js": "/react-covid-info/static/js/3.a692224a.chunk.js",
     "static/js/3.a692224a.chunk.js.map": "/react-covid-info/static/js/3.a692224a.chunk.js.map",
     "index.html": "/react-covid-info/index.html",
-    "static/css/main.8fbcdd41.chunk.css.map": "/react-covid-info/static/css/main.8fbcdd41.chunk.css.map",
+    "static/css/main.25a8afb4.chunk.css.map": "/react-covid-info/static/css/main.25a8afb4.chunk.css.map",
     "static/js/2.21cd146c.chunk.js.LICENSE.txt": "/react-covid-info/static/js/2.21cd146c.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/react-covid-info/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.08870da0.js",
     "static/js/2.21cd146c.chunk.js",
-    "static/css/main.8fbcdd41.chunk.css",
+    "static/css/main.25a8afb4.chunk.css",
     "static/js/main.7e6e7233.chunk.js"
   ]
 }
