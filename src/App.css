@@ -1,38 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@200&display=swap');
+body {
+    font-family: 'Karla', sans-serif;
+}
 .App {
-  text-align: center;
+    width: 90vw;
+    height: 100vh;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 40vh;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.App > input {
+    height: 40px;
+    max-width: 500px;
+    border: 5px solid black;
+    font-size: 33px;
+    padding: 0 10px;
+    background: inherit;
+    color: black;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.App > h1 {
+    color: black;
+    font-size: 40px;
+    letter-spacing: 2px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.App > h3 {
+    color: black;
+    font-size: 20px;
+    letter-spacing: 1px;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.App > h2 {
+    color: black;
+    text-transform: uppercase;
+    font-size: 35px;
+    letter-spacing: 4px;
 }
