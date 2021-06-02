@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-covid-info/static/css/main.23f6e172.chunk.css",
-    "main.js": "/react-covid-info/static/js/main.7e6e7233.chunk.js",
-    "main.js.map": "/react-covid-info/static/js/main.7e6e7233.chunk.js.map",
+    "main.css": "/react-covid-info/static/css/main.67d1f82a.chunk.css",
+    "main.js": "/react-covid-info/static/js/main.78b575b0.chunk.js",
+    "main.js.map": "/react-covid-info/static/js/main.78b575b0.chunk.js.map",
     "runtime-main.js": "/react-covid-info/static/js/runtime-main.08870da0.js",
     "runtime-main.js.map": "/react-covid-info/static/js/runtime-main.08870da0.js.map",
     "static/js/2.21cd146c.chunk.js": "/react-covid-info/static/js/2.21cd146c.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.a692224a.chunk.js": "/react-covid-info/static/js/3.a692224a.chunk.js",
     "static/js/3.a692224a.chunk.js.map": "/react-covid-info/static/js/3.a692224a.chunk.js.map",
     "index.html": "/react-covid-info/index.html",
-    "static/css/main.23f6e172.chunk.css.map": "/react-covid-info/static/css/main.23f6e172.chunk.css.map",
+    "static/css/main.67d1f82a.chunk.css.map": "/react-covid-info/static/css/main.67d1f82a.chunk.css.map",
     "static/js/2.21cd146c.chunk.js.LICENSE.txt": "/react-covid-info/static/js/2.21cd146c.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/react-covid-info/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.08870da0.js",
     "static/js/2.21cd146c.chunk.js",
-    "static/css/main.23f6e172.chunk.css",
-    "static/js/main.7e6e7233.chunk.js"
+    "static/css/main.67d1f82a.chunk.css",
+    "static/js/main.78b575b0.chunk.js"
   ]
 }
